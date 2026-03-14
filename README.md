@@ -26,9 +26,9 @@ In cybersecurity, attackers often use URL shorteners (Bitly, TinyURL, etc.) to h
 
 
 
-Sample Output:
+**Sample Output:
 
 [*] Analyzing: [https://bit.ly/3xJkL](https://bit.ly/3xJkL)...
 [+] Redirect Found!
 [+] Destination: [https://malicious-site.com/payload.exe](https://malicious-site.com/payload.exe)
-[+] Status Code: 301
+[+] Status Code: 301**
